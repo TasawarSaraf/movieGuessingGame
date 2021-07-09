@@ -1,0 +1,11 @@
+hr {
+  opacity: 0.3;
+}
+
+.show-hint {
+  display: none;
+}
+
+.hide {
+  display: none;
+}
